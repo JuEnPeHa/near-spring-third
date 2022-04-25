@@ -1,0 +1,15 @@
+/home/john/near-spring-third/contract/target/rls/debug/deps/reed_solomon_erasure-645e459ffa670266.rmeta: /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs /home/john/near-spring-third/contract/target/rls/debug/build/reed-solomon-erasure-4e8f214dae7be0a9/out/table.rs
+
+/home/john/near-spring-third/contract/target/rls/debug/deps/reed_solomon_erasure-645e459ffa670266.d: /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs /home/john/near-spring-third/contract/target/rls/debug/build/reed-solomon-erasure-4e8f214dae7be0a9/out/table.rs
+
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs:
+/home/john/near-spring-third/contract/target/rls/debug/build/reed-solomon-erasure-4e8f214dae7be0a9/out/table.rs:
+
+# env-dep:OUT_DIR=/home/john/near-spring-third/contract/target/rls/debug/build/reed-solomon-erasure-4e8f214dae7be0a9/out
