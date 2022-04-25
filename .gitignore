@@ -6,8 +6,8 @@
 .pnp.js
 
 # build
-/out
-/dist
+# /out
+# /dist
 
 # keys
 /neardev
