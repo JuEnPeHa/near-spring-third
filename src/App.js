@@ -5,7 +5,7 @@ import './global.css'
 import { utils } from 'near-api-js'
 
 import getConfig from './config'
-const { networkId } = getConfig(process.env.NODE_ENV || 'development')
+const { networkId } = getConfig(process.env.NODE_ENV || 'testnet')
 
 export default function App() {
 
